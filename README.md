@@ -5,8 +5,7 @@ This program was a classroom project that I thoroughly enjoyed.
 # Build Status
 The project is officially complete, however there are some features that I would like to add in the future.
 # Screenshots
-Here are some screenshots of the canvases that were created using the program.
-
+See the screenshots folder for examples of canvases that were created by the program.
 # Possible Future Features
 I would like to add the option to create and save a screenshot of the canvas.
 I would also like to add more shapes that could be generated.
